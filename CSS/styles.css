@@ -1,0 +1,127 @@
+
+/************************Tags***************************/
+html, body{
+    margin: 0px;
+    height: 100%;
+    text-align: center;
+    font-family: "Roboto Mono", sans-serif;
+}
+
+h1{
+    font-size: 3em;
+}
+
+/************************Classes************************/
+.top{
+    background-color:  #f5eee6;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0px;
+}
+
+.bio-mid{
+    background-color: #f3d7ca;
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.mid-mid{
+    background-color: #e6a4b4;
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bottom{
+    background-color: #c86b85;
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.name{
+    margin: 0 auto 0 auto; /* auto centers it */
+}
+
+.current_occupation{
+    margin: 0px;
+}
+
+.mountain{
+    margin: 0 auto;
+}
+
+
+.cloud1{
+    position: absolute;
+    left: 70%;
+    top: 5%;
+}
+.cloud2{
+    position: absolute;
+    left: 20%;
+    top: 35%;
+}
+
+.headshot{
+    height: 300px;
+}
+
+.bio_divider{
+    margin: 0 auto 0 auto;
+    padding: 0px;
+    border-top-style: dotted;
+    border-width: 10px 0px 0px 0px;
+    width: 300px;
+    border-color: #c86b85;
+}
+
+.text{
+    padding: 0px;
+    margin: 0 auto 0 auto;
+    width: 400px;
+}
+
+.mid-header{
+    margin: 0 auto 0 auto;
+    padding-top: 20px;
+    width: 100px;
+}
+.skills{
+    margin: 0 auto 0 auto;
+}
+
+.mid_divider{
+    margin: auto;
+    display: inline-block;
+    padding: 0px;
+    border-top-style: dotted;
+    border-width: 10px 0px 0px 0px;
+    width: 100px;
+    border-color: #c86b85;
+}
+.computer_image{
+    height: 150px;
+    position: absolute;
+    left: 20%;
+}
+
+.wrench_image{
+    height: 150px;
+    position: absolute;
+    right: 20%;
+}
+
+.raquet_image{
+    height: 150px;
+    position: absolute;
+    left: 20%;
+}
+
+.mid-row{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    display: block;
+}
