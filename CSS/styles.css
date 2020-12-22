@@ -56,7 +56,7 @@ h1{
 
 .cloud1{
     position: absolute;
-    left: 70%;
+    right: 30%;
     top: 5%;
 }
 .cloud2{
@@ -81,8 +81,8 @@ h1{
 .text{
     padding: 0px;
     margin: 0 auto 0 auto;
-    width: 20%;
-}
+    width: 80%;
+} 
 
 .mid-header{
     margin: 0 auto 0 auto;
