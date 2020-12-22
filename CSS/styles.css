@@ -103,19 +103,25 @@ h1{
     border-color: #c86b85;
 }
 .computer_image{
-    height: 10%;
+    max-width: 15%;
+    height: auto;
+    width: auto\9; /* ie8 */
     position: absolute;
     left: 20%;
 }
 
 .wrench_image{
-    height: 10%;
+    max-width: 15%;
+    height: auto;
+    width: auto\9; /* ie8 */
     position: absolute;
     right: 20%;
 }
 
 .raquet_image{
-    height: 10%;
+    max-width: 12%;
+    height: auto;
+    width: auto\9; /* ie8 */
     position: absolute;
     left: 20%;
 }
