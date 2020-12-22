@@ -81,7 +81,7 @@ h1{
 .text{
     padding: 0px;
     margin: 0 auto 0 auto;
-    width: 400px;
+    width: 20%;
 }
 
 .mid-header{
@@ -105,7 +105,7 @@ h1{
 .computer_image{
     max-width: 15%;
     height: auto;
-    width: auto\9; /* ie8 */
+    width: auto\9; 
     position: absolute;
     left: 20%;
 }
@@ -113,7 +113,7 @@ h1{
 .wrench_image{
     max-width: 15%;
     height: auto;
-    width: auto\9; /* ie8 */
+    width: auto\9; 
     position: absolute;
     right: 20%;
 }
@@ -121,7 +121,7 @@ h1{
 .raquet_image{
     max-width: 12%;
     height: auto;
-    width: auto\9; /* ie8 */
+    width: auto\9; 
     position: absolute;
     left: 20%;
 }
